@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=bebas+neue');
+
+.navbar {
+  height: 64px;
+  background-color: #1f0003;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.leftNav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rightNav {
+}
+
+.logo {
+  margin-left: 12px;
+  height: 40px;
+}
+
+.mainTitle {
+  margin-top: 30px;
+  margin-left: 12px;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  font-size: 40px;
+}
+
+.homeLink {
+  text-decoration: none;
+}
+
+.navButton {
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  background: #6a2d56;
+  margin: 0 12px 0 12px;
+  text-align: center;
+  background-color: #6a2d56;
+  color: white;
+  height: 32px;
+  font-size: 16px;
+  width: 150px;
+  border-radius: 50px;
+  border: solid 1px #ffa400;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navButton:hover {
+  cursor: pointer;
+  background-color: #3d002d;
+}
+
+.active {
+  margin: 0 12px 0 12px;
+  text-align: center;
+  background-color: #ffa400;
+  color: black;
+  height: 32px;
+  font-size: 16px;
+  width: 150px;
+  border-radius: 50px;
+  border: solid 1px #ffa400;
+}
