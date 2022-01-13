@@ -9,7 +9,10 @@ const Navbar = () => {
   const [curvesActive, setCurvesActive] = useState(false);
 
   useEffect(() => {
-    if (window.location.pathname === '/home') {
+    if (
+      window.location.pathname === '/home' ||
+      window.location.pathname === '/'
+    ) {
       setHomeActive(true);
     } else if (window.location.pathname === '/curves') {
       setCurvesActive(true);
