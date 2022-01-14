@@ -33,7 +33,6 @@ const useStyles = makeStyles((theme) => ({
 
 const searchBar = () => {
   const heroesNames = heroes.map((id) => id.name);
-  console.log(heroesNames);
   const classes = useStyles();
   return (
     <Autocomplete
@@ -46,7 +45,7 @@ const searchBar = () => {
       PaperComponent={({ children }) => (
         <Paper
           style={{
-            background: '#6a2d56',
+            background: '#3d002df1',
             color: '#ffff',
             border: 'solid 1px #ffa400',
             borderTop: 'none',

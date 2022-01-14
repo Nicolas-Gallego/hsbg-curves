@@ -1,11 +1,13 @@
 [
   {
-    "name": "A. F. Kay",
-    "image": "/heroes/A. F. Kay/A. F. Kay.png",
-    "hpImage": "/heroes/A. F. Kay/A. F. Kay HP.png",
+    "id": 1,
+    "name": "A F Kay",
+    "image": "/heroes/A F Kay/A F Kay.png",
+    "hpImage": "/heroes/A F Kay/A F Kay HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 2,
     "name": "Al'Akir",
     "image": "/heroes/Al'Akir/Al'Akir.png",
     "hpImage": "/heroes/Al'Akir/Al'Akir HP.png",
@@ -17,6 +19,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Alexstrasza",
     "image": "/heroes/Alexstrasza/Alexstrasza.png",
     "hpImage": "/heroes/Alexstrasza/Alexstrasza HP.png",
@@ -28,114 +31,133 @@
     ]
   },
   {
+    "id": 4,
     "name": "Aranna Starseeker",
     "image": "/heroes/Aranna Starseeker/Aranna Starseeker.png",
     "hpImage": "/heroes/Aranna Starseeker/Aranna Starseeker HP.png",
     "curves": ["standardCurve"]
   },
   {
+    "id": 5,
     "name": "Arch-Villain Rafaam",
     "image": "/heroes/Arch-Villain Rafaam/Arch-Villain Rafaam.png",
     "hpImage": "/heroes/Arch-Villain Rafaam/Arch-Villain Rafaam HP.png",
     "curves": ["rafaamCurve"]
   },
   {
+    "id": 6,
     "name": "C'Thun",
     "image": "/heroes/C'Thun/C'Thun.png",
     "hpImage": "/heroes/C'Thun/C'Thun HP.png",
     "curves": ["cthunCurve", "cthunCurveMechs", "cthunCurveNoMechs"]
   },
   {
+    "id": 7,
     "name": "Captain Eudora",
     "image": "/heroes/Captain Eudora/Captain Eudora.png",
     "hpImage": "/heroes/Captain Eudora/Captain Eudora HP.png",
     "curves": ["EudoraDig1", "EudoraRafaamCurve", "EudoraSuicideCurve"]
   },
   {
+    "id": 8,
     "name": "Captain Hooktusk",
     "image": "/heroes/Captain Hooktusk/Captain Hooktusk.png",
     "hpImage": "/heroes/Captain Hooktusk/Captain Hooktusk HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "warriorCurve"]
   },
   {
+    "id": 9,
     "name": "Cariel Roame",
     "image": "/heroes/Cariel Roame/Cariel Roame.png",
     "hpImage": "/heroes/Cariel Roame/Cariel Roame HP.png",
     "curves": []
   },
   {
+    "id": 10,
     "name": "Chenvaala",
     "image": "/heroes/Chenvaala/Chenvaala.png",
     "hpImage": "/heroes/Chenvaala/Chenvaala HP.png",
     "curves": ["warriorCurve", "standardCurve"]
   },
   {
+    "id": 11,
     "name": "Cookie the Cook",
     "image": "/heroes/Cookie the Cook/Cookie the Cook.png",
     "hpImage": "/heroes/Cookie the Cook/Cookie the Cook HP.png",
     "curves": ["3on3LevelOn8", "3on3LevelOn9", "warriorCurve"]
   },
   {
+    "id": 12,
     "name": "Dancin' Deryl",
     "image": "/heroes/Dancin' Deryl/Dancin' Deryl.png",
     "hpImage": "/heroes/Dancin' Deryl/Dancin' Deryl HP.png",
     "curves": ["standardCurve", "warriorCurve"]
   },
   {
+    "id": 13,
     "name": "Death Speaker Blackthorn",
     "image": "/heroes/Death Speaker Blackthorn/Death Speaker Blackthorn.png",
     "hpImage": "/heroes/Death Speaker Blackthorn/Death Speaker Blackthorn HP.png",
     "curves": ["3on3LevelOn8", "3on3LevelOn9", "standardCurve"]
   },
   {
+    "id": 14,
     "name": "Deathwing",
     "image": "/heroes/Deathwing/Deathwing.png",
     "hpImage": "/heroes/Deathwing/Deathwing HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "standardCurve"]
   },
   {
+    "id": 15,
     "name": "Dinotamer Brann",
     "image": "/heroes/Dinotamer Brann/Dinotamer Brann.png",
     "hpImage": "/heroes/Dinotamer Brann/Dinotamer Brann HP.png",
     "curves": ["warriorCurve"]
   },
   {
+    "id": 16,
     "name": "Edwin VanCleef",
     "image": "/heroes/Edwin VanCleef/Edwin VanCleef.png",
     "hpImage": "/heroes/Edwin VanCleef/Edwin VanCleef HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 17,
     "name": "Elise Starseeker",
     "image": "/heroes/Elise Starseeker/Elise Starseeker.png",
     "hpImage": "/heroes/Elise Starseeker/Elise Starseeker HP.png",
     "curves": ["standardCurve"]
   },
   {
+    "id": 18,
     "name": "Forest Warden Omu",
     "image": "/heroes/Forest Warden Omu/Forest Warden Omu.png",
     "hpImage": "/heroes/Forest Warden Omu/Forest Warden Omu HP.png",
     "curves": ["omuToken", "omuNoToken", "omu2Token"]
   },
   {
+    "id": 19,
     "name": "Fungalmancer Flurgl",
     "image": "/heroes/Fungalmancer Flurgl/Fungalmancer Flurgl.png",
     "hpImage": "/heroes/Fungalmancer Flurgl/Fungalmancer Flurgl HP.png",
     "curves": ["standardCurve", "warriorCurve"]
   },
   {
+    "id": 20,
     "name": "Galakrond",
     "image": "/heroes/Galakrond/Galakrond.png",
     "hpImage": "/heroes/Galakrond/Galakrond HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "tokiCurve"]
   },
   {
+    "id": 21,
     "name": "Galewing",
     "image": "/heroes/Galewing/Galewing.png",
     "hpImage": "/heroes/Galewing/Galewing HP.png",
     "curves": ["galewingCurve"]
   },
   {
+    "id": 22,
     "name": "George the Fallen",
     "image": "/heroes/George the Fallen/George the Fallen.png",
     "hpImage": "/heroes/George the Fallen/George the Fallen HP.png",
@@ -147,6 +169,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Greybough",
     "image": "/heroes/Greybough/Greybough.png",
     "hpImage": "/heroes/Greybough/Greybough HP.png",
@@ -158,12 +181,14 @@
     ]
   },
   {
+    "id": 24,
     "name": "Guff Runetotem",
     "image": "/heroes/Guff Runetotem/Guff Runetotem.png",
     "hpImage": "/heroes/Guff Runetotem/Guff Runetotem HP.png",
     "curves": []
   },
   {
+    "id": 25,
     "name": "Illidan Stormrage",
     "image": "/heroes/Illidan Stormrage/Illidan Stormrage.png",
     "hpImage": "/heroes/Illidan Stormrage/Illidan Stormrage HP.png",
@@ -175,6 +200,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Infinite Toki",
     "image": "/heroes/Infinite Toki/Infinite Toki.png",
     "hpImage": "/heroes/Infinite Toki/Infinite Toki HP.png",
@@ -186,30 +212,35 @@
     ]
   },
   {
+    "id": 27,
     "name": "Jandice Barov",
     "image": "/heroes/Jandice Barov/Jandice Barov.png",
     "hpImage": "/heroes/Jandice Barov/Jandice Barov HP.png",
     "curves": ["jandiceTokenCurve", "jandiceNoTokenCurve"]
   },
   {
+    "id": 28,
     "name": "Kael'thas Sunstrider",
     "image": "/heroes/Kael'thas Sunstrider/Kael'thas Sunstrider.png",
     "hpImage": "/heroes/Kael'thas Sunstrider/Kael'thas Sunstrider HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 29,
     "name": "King Mukla",
     "image": "/heroes/King Mukla/King Mukla.png",
     "hpImage": "/heroes/King Mukla/King Mukla HP.png",
     "curves": ["rafaamCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 30,
     "name": "Kurtrus Ashfallen",
     "image": "/heroes/Kurtrus Ashfallen/Kurtrus Ashfallen.png",
     "hpImage": "/heroes/Kurtrus Ashfallen/Kurtrus Ashfallen HP.png",
     "curves": ["kurthsNormalCurve", "kurtrusJkirekCurve"]
   },
   {
+    "id": 31,
     "name": "Lich Baz'hial",
     "image": "/heroes/Lich Baz'hial/Lich Baz'hial.png",
     "hpImage": "/heroes/Lich Baz'hial/Lich Baz'hial HP.png",
@@ -221,36 +252,42 @@
     ]
   },
   {
+    "id": 32,
     "name": "Lord Barov",
     "image": "/heroes/Lord Barov/Lord Barov.png",
     "hpImage": "/heroes/Lord Barov/Lord Barov HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "warriorCurve"]
   },
   {
+    "id": 33,
     "name": "Lord Jaraxxus",
     "image": "/heroes/Lord Jaraxxus/Lord Jaraxxus.png",
     "hpImage": "/heroes/Lord Jaraxxus/Lord Jaraxxus HP.png",
     "curves": []
   },
   {
+    "id": 34,
     "name": "Maiev Shadowsong",
     "image": "/heroes/Maiev Shadowsong/Maiev Shadowsong.png",
     "hpImage": "/heroes/Maiev Shadowsong/Maiev Shadowsong HP.png",
     "curves": ["rafaamCurve", "warriorCurve"]
   },
   {
+    "id": 35,
     "name": "Malygos",
     "image": "/heroes/Malygos/Malygos.png",
     "hpImage": "/heroes/Malygos/Malygos HP.png",
     "curves": ["warriorCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 36,
     "name": "Master Nguyen",
     "image": "/heroes/Master Nguyen/Master Nguyen.png",
     "hpImage": "/heroes/Master Nguyen/Master Nguyen HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "warriorCurve"]
   },
   {
+    "id": 37,
     "name": "Millhouse Manastorm",
     "image": "/heroes/Millhouse Manastorm/Millhouse Manastorm.png",
     "hpImage": "/heroes/Millhouse Manastorm/Millhouse Manastorm HP.png",
@@ -261,42 +298,49 @@
     ]
   },
   {
+    "id": 38,
     "name": "Millificent Manastorm",
     "image": "/heroes/Millificent Manastorm/Millificent Manastorm.png",
     "hpImage": "/heroes/Millificent Manastorm/Millificent Manastorm HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
-    "name": "Mr. Bigglesworth",
-    "image": "/heroes/Mr. Bigglesworth/Mr. Bigglesworth.png",
-    "hpImage": "/heroes/Mr. Bigglesworth/Mr. Bigglesworth HP.png",
+    "id": 39,
+    "name": "Mr Bigglesworth",
+    "image": "/heroes/Mr Bigglesworth/Mr Bigglesworth.png",
+    "hpImage": "/heroes/Mr Bigglesworth/Mr Bigglesworth HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 40,
     "name": "Mutanus the Devourer",
     "image": "/heroes/Mutanus the Devourer/Mutanus the Devourer.png",
     "hpImage": "/heroes/Mutanus the Devourer/Mutanus the Devourer HP.png",
     "curves": ["yoggCurve", "yoggCurveAggro"]
   },
   {
+    "id": 41,
     "name": "N'Zoth",
     "image": "/heroes/N'Zoth/N'Zoth.png",
     "hpImage": "/heroes/N'Zoth/N'Zoth HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "standardCurve"]
   },
   {
+    "id": 42,
     "name": "Overlord Saurfang",
     "image": "/heroes/Overlord Saurfang/Overlord Saurfang.png",
     "hpImage": "/heroes/Overlord Saurfang/Overlord Saurfang HP.png",
     "curves": ["standardCurve", "warriorCurve"]
   },
   {
+    "id": 43,
     "name": "Patches the Pirate",
     "image": "/heroes/Patches the Pirate/Patches the Pirate.png",
     "hpImage": "/heroes/Patches the Pirate/Patches the Pirate HP.png",
     "curves": ["coming soon"]
   },
   {
+    "id": 44,
     "name": "Patchwerk",
     "image": "/heroes/Patchwerk/Patchwerk.png",
     "hpImage": "/heroes/Patchwerk/Patchwerk HP.png",
@@ -308,102 +352,119 @@
     ]
   },
   {
+    "id": 45,
     "name": "Pyramad",
     "image": "/heroes/Pyramad/Pyramad.png",
     "hpImage": "/heroes/Pyramad/Pyramad HP.png",
     "curves": []
   },
   {
+    "id": 46,
     "name": "Queen Wagtoggle",
     "image": "/heroes/Queen Wagtoggle/Queen Wagtoggle.png",
     "hpImage": "/heroes/Queen Wagtoggle/Queen Wagtoggle HP.png",
     "curves": []
   },
   {
+    "id": 47,
     "name": "Ragnaros the Firelord",
     "image": "/heroes/Ragnaros the Firelord/Ragnaros the Firelord.png",
     "hpImage": "/heroes/Ragnaros the Firelord/Ragnaros the Firelord HP.png",
     "curves": ["standardCurve", "warriorCurve"]
   },
   {
+    "id": 48,
     "name": "Rakanishu",
     "image": "/heroes/Rakanishu/Rakanishu.png",
     "hpImage": "/heroes/Rakanishu/Rakanishu HP.png",
     "curves": ["yoggCurve", "yoggCurveAggro", "standardCurve"]
   },
   {
+    "id": 49,
     "name": "Reno Jackson",
     "image": "/heroes/Reno Jackson/Reno Jackson.png",
     "hpImage": "/heroes/Reno Jackson/Reno Jackson HP.png",
     "curves": ["warriorCurve", "3on3LevelOn8", "3on3LevelOn9"]
   },
   {
+    "id": 50,
     "name": "Scabbs Cutterbutter",
     "image": "/heroes/Scabbs Cutterbutter/Scabbs Cutterbutter.png",
     "hpImage": "/heroes/Scabbs Cutterbutter/Scabbs Cutterbutter HP.png",
     "curves": ["yoggCurve", "yoggCurveAggro", "warriorCurve"]
   },
   {
+    "id": 51,
     "name": "Shudderwock",
     "image": "/heroes/Shudderwock/Shudderwock.png",
     "hpImage": "/heroes/Shudderwock/Shudderwock HP.png",
     "curves": ["warriorCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 52,
     "name": "Silas Darkmoon",
     "image": "/heroes/Silas Darkmoon/Silas Darkmoon.png",
     "hpImage": "/heroes/Silas Darkmoon/Silas Darkmoon HP.png",
     "curves": ["3on3LevelOn8", "3on3LevelOn9", "standardCurve"]
   },
   {
+    "id": 53,
     "name": "Sindragosa",
     "image": "/heroes/Sindragosa/Sindragosa.png",
     "hpImage": "/heroes/Sindragosa/Sindragosa HP.png",
     "curves": ["warriorCurve", "standardCurve"]
   },
   {
+    "id": 54,
     "name": "Sir Finley Mrrgglton",
     "image": "/heroes/Sir Finley Mrrgglton/Sir Finley Mrrgglton.png",
     "hpImage": "/heroes/Sir Finley Mrrgglton/Sir Finley Mrrgglton HP.png",
     "curves": []
   },
   {
+    "id": 55,
     "name": "Skycap'n Kragg",
     "image": "/heroes/Skycap'n Kragg/Skycap'n Kragg.png",
     "hpImage": "/heroes/Skycap'n Kragg/Skycap'n Kragg HP.png",
     "curves": ["standardCurve", "warriorCurve"]
   },
   {
+    "id": 56,
     "name": "Sneed",
     "image": "/heroes/Sneed/Sneed.png",
     "hpImage": "/heroes/Sneed/Sneed HP.png",
     "curves": ["warriorCurve", "tokiCurve"]
   },
   {
+    "id": 57,
     "name": "Tamsin Roame",
     "image": "/heroes/Tamsin Roame/Tamsin Roame.png",
     "hpImage": "/heroes/Tamsin Roame/Tamsin Roame HP.png",
     "curves": ["jeefCurveToTavern3", "jeefCurveToTavern4", "standardCurve"]
   },
   {
+    "id": 58,
     "name": "Tess Greymane",
     "image": "/heroes/Tess Greymane/Tess Greymane.png",
     "hpImage": "/heroes/Tess Greymane/Tess Greymane HP.png",
     "curves": ["coming soon"]
   },
   {
+    "id": 59,
     "name": "The Curator",
     "image": "/heroes/The Curator/The Curator.png",
     "hpImage": "/heroes/The Curator/The Curator HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 60,
     "name": "The Great Akazamzarak",
     "image": "/heroes/The Great Akazamzarak/The Great Akazamzarak.png",
     "hpImage": "/heroes/The Great Akazamzarak/The Great Akazamzarak HP.png",
     "curves": ["akazamzarakCurve", "standardCurve"]
   },
   {
+    "id": 61,
     "name": "The Lich King",
     "image": "/heroes/The Lich King/The Lich King.png",
     "hpImage": "/heroes/The Lich King/The Lich King HP.png",
@@ -415,48 +476,56 @@
     ]
   },
   {
+    "id": 62,
     "name": "The Rat King",
     "image": "/heroes/The Rat King/The Rat King.png",
     "hpImage": "/heroes/The Rat King/The Rat King HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 63,
     "name": "Tickatus",
     "image": "/heroes/Tickatus/Tickatus.png",
     "hpImage": "/heroes/Tickatus/Tickatus HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 64,
     "name": "Trade Prince Gallywix",
     "image": "/heroes/Trade Prince Gallywix/Trade Prince Gallywix.png",
     "hpImage": "/heroes/Trade Prince Gallywix/Trade Prince Gallywix HP.png",
     "curves": ["warriorCurve", "4on4"]
   },
   {
+    "id": 65,
     "name": "Vol'jin",
     "image": "/heroes/Vol'jin/Vol'jin.png",
     "hpImage": "/heroes/Vol'jin/Vol'jin HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   },
   {
+    "id": 66,
     "name": "Xyrella",
     "image": "/heroes/Xyrella/Xyrella.png",
     "hpImage": "/heroes/Xyrella/Xyrella HP.png",
     "curves": ["warriorCurve", "yoggCurve", "yoggCurveAggro"]
   },
   {
+    "id": 67,
     "name": "Y'Shaarj",
     "image": "/heroes/Y'Shaarj/Y'Shaarj.png",
     "hpImage": "/heroes/Y'Shaarj/Y'Shaarj HP.png",
     "curves": ["yoggCurve", "yoggCurveAggro"]
   },
   {
-    "name": "Yogg-Saron, Hope's End",
-    "image": "/heroes/Yogg-Saron, Hope's End/Yogg-Saron, Hope's End.png",
-    "hpImage": "/heroes/Yogg-Saron, Hope's End/Yogg-Saron, Hope's End HP.png",
+    "id": 68,
+    "name": "Yogg-Saron Hope's End",
+    "image": "/heroes/Yogg-Saron Hope's End/Yogg-Saron Hope's End.png",
+    "hpImage": "/heroes/Yogg-Saron Hope's End/Yogg-Saron Hope's End HP.png",
     "curves": ["warriorCurve", "yoggCurve", "yoggCurveAggro"]
   },
   {
+    "id": 69,
     "name": "Ysera",
     "image": "/heroes/Ysera/Ysera.png",
     "hpImage": "/heroes/Ysera/Ysera HP.png",
@@ -468,9 +537,10 @@
     ]
   },
   {
-    "name": "Zephrys, the Great",
-    "image": "/heroes/Zephrys, the Great/Zephrys, the Great.png",
-    "hpImage": "/heroes/Zephrys, the Great/Zephrys, the Great HP.png",
+    "id": 70,
+    "name": "Zephrys the Great",
+    "image": "/heroes/Zephrys the Great/Zephrys the Great.png",
+    "hpImage": "/heroes/Zephrys the Great/Zephrys the Great HP.png",
     "curves": ["standardCurve", "jeefCurveToTavern3", "jeefCurveToTavern4"]
   }
 ]

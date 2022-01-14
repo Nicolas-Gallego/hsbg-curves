@@ -3,8 +3,6 @@ import { NavLink } from 'react-router-dom';
 import styles from './Navbar.module.scss';
 
 const Navbar = () => {
-  console.log(window.location.pathname);
-
   const [homeActive, setHomeActive] = useState(false);
   const [curvesActive, setCurvesActive] = useState(false);
 
