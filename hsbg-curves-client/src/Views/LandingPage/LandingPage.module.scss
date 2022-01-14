@@ -1,0 +1,23 @@
+.searchBar {
+  margin: 30px;
+}
+.heroImage {
+  transition-duration: 0.3s;
+}
+.heroesList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.heroImage:hover {
+  transform: scale(1.02);
+  cursor: pointer;
+  -webkit-filter: drop-shadow(3px 3px 3px rgba(91, 224, 255, 0.726))
+    drop-shadow(-3px 3px 3px rgba(91, 224, 255, 0.726))
+    drop-shadow(3px -3px 3px rgba(91, 224, 255, 0.726))
+    drop-shadow(-3px -3px 3px rgba(91, 224, 255, 0.726));
+
+  filter: drop-shadow(3px 3px 3px rgba(91, 224, 255, 0.726))
+    drop-shadow(-3px 3px 3px rgba(91, 224, 255, 0.726))
+    drop-shadow(3px -3px 3px rgba(91, 224, 255, 0.726))
+    drop-shadow(-3px -3px 3px rgba(91, 224, 255, 0.726));
+}
