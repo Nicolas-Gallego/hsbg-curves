@@ -89,7 +89,12 @@ function LandingPage() {
         <div className={styles.heroesList}>
           {selected !== undefined && selected !== null && selectedHero ? (
             <div key={selectedHero.id} className={styles.hero}>
-              <Link to={`/hero/${selectedHero.id}/${selectedHero.name}`}>
+              <Link
+                to={`/hero/${selectedHero.id}/${selectedHero.name
+                  .replace(' ', '-')
+                  .replace(' ', '-')
+                  .replace("'", '')}`}
+              >
                 <img
                   src={selectedHero.image}
                   alt={selectedHero.name}
@@ -101,7 +106,12 @@ function LandingPage() {
             <>
               {heroes.map((data) => (
                 <div key={data.id} className={styles.hero}>
-                  <Link to={`/hero/${data.id}/${data.name}`}>
+                  <Link
+                    to={`/hero/${data.id}/${data.name
+                      .replace(' ', '-')
+                      .replace(' ', '-')
+                      .replace("'", '')}`}
+                  >
                     <img
                       src={data.image}
                       alt={data.name}
