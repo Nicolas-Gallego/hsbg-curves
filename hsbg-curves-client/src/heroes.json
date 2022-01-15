@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "tier": "D",
     "name": "A F Kay",
     "image": "/heroes/A F Kay/A F Kay.png",
     "hpImage": "/heroes/A F Kay/A F Kay HP.png",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "tier": "AB",
     "name": "Al'Akir",
     "image": "/heroes/Al'Akir/Al'Akir.png",
     "hpImage": "/heroes/Al'Akir/Al'Akir HP.png",
@@ -20,6 +22,7 @@
   },
   {
     "id": 3,
+    "tier": "AB",
     "name": "Alexstrasza",
     "image": "/heroes/Alexstrasza/Alexstrasza.png",
     "hpImage": "/heroes/Alexstrasza/Alexstrasza HP.png",
@@ -32,6 +35,7 @@
   },
   {
     "id": 4,
+    "tier": "CD",
     "name": "Aranna Starseeker",
     "image": "/heroes/Aranna Starseeker/Aranna Starseeker.png",
     "hpImage": "/heroes/Aranna Starseeker/Aranna Starseeker HP.png",
@@ -39,6 +43,7 @@
   },
   {
     "id": 5,
+    "tier": "A",
     "name": "Arch-Villain Rafaam",
     "image": "/heroes/Arch-Villain Rafaam/Arch-Villain Rafaam.png",
     "hpImage": "/heroes/Arch-Villain Rafaam/Arch-Villain Rafaam HP.png",
@@ -46,6 +51,7 @@
   },
   {
     "id": 6,
+    "tier": "F",
     "name": "C'Thun",
     "image": "/heroes/C'Thun/C'Thun.png",
     "hpImage": "/heroes/C'Thun/C'Thun HP.png",
@@ -53,6 +59,7 @@
   },
   {
     "id": 7,
+    "tier": "AB",
     "name": "Captain Eudora",
     "image": "/heroes/Captain Eudora/Captain Eudora.png",
     "hpImage": "/heroes/Captain Eudora/Captain Eudora HP.png",
@@ -60,6 +67,7 @@
   },
   {
     "id": 8,
+    "tier": "S",
     "name": "Captain Hooktusk",
     "image": "/heroes/Captain Hooktusk/Captain Hooktusk.png",
     "hpImage": "/heroes/Captain Hooktusk/Captain Hooktusk HP.png",
@@ -67,6 +75,7 @@
   },
   {
     "id": 9,
+    "tier": "F",
     "name": "Cariel Roame",
     "image": "/heroes/Cariel Roame/Cariel Roame.png",
     "hpImage": "/heroes/Cariel Roame/Cariel Roame HP.png",
@@ -74,6 +83,7 @@
   },
   {
     "id": 10,
+    "tier": "C",
     "name": "Chenvaala",
     "image": "/heroes/Chenvaala/Chenvaala.png",
     "hpImage": "/heroes/Chenvaala/Chenvaala HP.png",
@@ -81,6 +91,7 @@
   },
   {
     "id": 11,
+    "tier": "S-",
     "name": "Cookie the Cook",
     "image": "/heroes/Cookie the Cook/Cookie the Cook.png",
     "hpImage": "/heroes/Cookie the Cook/Cookie the Cook HP.png",
@@ -88,6 +99,7 @@
   },
   {
     "id": 12,
+    "tier": "AB",
     "name": "Dancin' Deryl",
     "image": "/heroes/Dancin' Deryl/Dancin' Deryl.png",
     "hpImage": "/heroes/Dancin' Deryl/Dancin' Deryl HP.png",
@@ -95,6 +107,7 @@
   },
   {
     "id": 13,
+    "tier": "B+",
     "name": "Death Speaker Blackthorn",
     "image": "/heroes/Death Speaker Blackthorn/Death Speaker Blackthorn.png",
     "hpImage": "/heroes/Death Speaker Blackthorn/Death Speaker Blackthorn HP.png",
@@ -102,6 +115,7 @@
   },
   {
     "id": 14,
+    "tier": "D",
     "name": "Deathwing",
     "image": "/heroes/Deathwing/Deathwing.png",
     "hpImage": "/heroes/Deathwing/Deathwing HP.png",
@@ -109,6 +123,7 @@
   },
   {
     "id": 15,
+    "tier": "S",
     "name": "Dinotamer Brann",
     "image": "/heroes/Dinotamer Brann/Dinotamer Brann.png",
     "hpImage": "/heroes/Dinotamer Brann/Dinotamer Brann HP.png",
@@ -116,6 +131,7 @@
   },
   {
     "id": 16,
+    "tier": "BC",
     "name": "Edwin VanCleef",
     "image": "/heroes/Edwin VanCleef/Edwin VanCleef.png",
     "hpImage": "/heroes/Edwin VanCleef/Edwin VanCleef HP.png",
@@ -123,6 +139,7 @@
   },
   {
     "id": 17,
+    "tier": "CD",
     "name": "Elise Starseeker",
     "image": "/heroes/Elise Starseeker/Elise Starseeker.png",
     "hpImage": "/heroes/Elise Starseeker/Elise Starseeker HP.png",
@@ -130,6 +147,7 @@
   },
   {
     "id": 18,
+    "tier": "A",
     "name": "Forest Warden Omu",
     "image": "/heroes/Forest Warden Omu/Forest Warden Omu.png",
     "hpImage": "/heroes/Forest Warden Omu/Forest Warden Omu HP.png",
@@ -137,6 +155,7 @@
   },
   {
     "id": 19,
+    "tier": "B+",
     "name": "Fungalmancer Flurgl",
     "image": "/heroes/Fungalmancer Flurgl/Fungalmancer Flurgl.png",
     "hpImage": "/heroes/Fungalmancer Flurgl/Fungalmancer Flurgl HP.png",
@@ -144,6 +163,7 @@
   },
   {
     "id": 20,
+    "tier": "SA",
     "name": "Galakrond",
     "image": "/heroes/Galakrond/Galakrond.png",
     "hpImage": "/heroes/Galakrond/Galakrond HP.png",
@@ -151,6 +171,7 @@
   },
   {
     "id": 21,
+    "tier": "A",
     "name": "Galewing",
     "image": "/heroes/Galewing/Galewing.png",
     "hpImage": "/heroes/Galewing/Galewing HP.png",
@@ -158,6 +179,7 @@
   },
   {
     "id": 22,
+    "tier": "AB",
     "name": "George the Fallen",
     "image": "/heroes/George the Fallen/George the Fallen.png",
     "hpImage": "/heroes/George the Fallen/George the Fallen HP.png",
@@ -170,6 +192,7 @@
   },
   {
     "id": 23,
+    "tier": "A",
     "name": "Greybough",
     "image": "/heroes/Greybough/Greybough.png",
     "hpImage": "/heroes/Greybough/Greybough HP.png",
@@ -182,6 +205,7 @@
   },
   {
     "id": 24,
+    "tier": "F",
     "name": "Guff Runetotem",
     "image": "/heroes/Guff Runetotem/Guff Runetotem.png",
     "hpImage": "/heroes/Guff Runetotem/Guff Runetotem HP.png",
@@ -189,6 +213,7 @@
   },
   {
     "id": 25,
+    "tier": "BC",
     "name": "Illidan Stormrage",
     "image": "/heroes/Illidan Stormrage/Illidan Stormrage.png",
     "hpImage": "/heroes/Illidan Stormrage/Illidan Stormrage HP.png",
@@ -201,6 +226,7 @@
   },
   {
     "id": 26,
+    "tier": "B",
     "name": "Infinite Toki",
     "image": "/heroes/Infinite Toki/Infinite Toki.png",
     "hpImage": "/heroes/Infinite Toki/Infinite Toki HP.png",
@@ -213,6 +239,7 @@
   },
   {
     "id": 27,
+    "tier": "S-",
     "name": "Jandice Barov",
     "image": "/heroes/Jandice Barov/Jandice Barov.png",
     "hpImage": "/heroes/Jandice Barov/Jandice Barov HP.png",
@@ -220,6 +247,7 @@
   },
   {
     "id": 28,
+    "tier": "C-",
     "name": "Kael'thas Sunstrider",
     "image": "/heroes/Kael'thas Sunstrider/Kael'thas Sunstrider.png",
     "hpImage": "/heroes/Kael'thas Sunstrider/Kael'thas Sunstrider HP.png",
@@ -227,6 +255,7 @@
   },
   {
     "id": 29,
+    "tier": "B+",
     "name": "King Mukla",
     "image": "/heroes/King Mukla/King Mukla.png",
     "hpImage": "/heroes/King Mukla/King Mukla HP.png",
@@ -234,6 +263,7 @@
   },
   {
     "id": 30,
+    "tier": "B-",
     "name": "Kurtrus Ashfallen",
     "image": "/heroes/Kurtrus Ashfallen/Kurtrus Ashfallen.png",
     "hpImage": "/heroes/Kurtrus Ashfallen/Kurtrus Ashfallen HP.png",
@@ -241,6 +271,7 @@
   },
   {
     "id": 31,
+    "tier": "A",
     "name": "Lich Baz'hial",
     "image": "/heroes/Lich Baz'hial/Lich Baz'hial.png",
     "hpImage": "/heroes/Lich Baz'hial/Lich Baz'hial HP.png",
@@ -253,6 +284,7 @@
   },
   {
     "id": 32,
+    "tier": "SA",
     "name": "Lord Barov",
     "image": "/heroes/Lord Barov/Lord Barov.png",
     "hpImage": "/heroes/Lord Barov/Lord Barov HP.png",
@@ -260,6 +292,7 @@
   },
   {
     "id": 33,
+    "tier": "F",
     "name": "Lord Jaraxxus",
     "image": "/heroes/Lord Jaraxxus/Lord Jaraxxus.png",
     "hpImage": "/heroes/Lord Jaraxxus/Lord Jaraxxus HP.png",
@@ -267,6 +300,7 @@
   },
   {
     "id": 34,
+    "tier": "A+",
     "name": "Maiev Shadowsong",
     "image": "/heroes/Maiev Shadowsong/Maiev Shadowsong.png",
     "hpImage": "/heroes/Maiev Shadowsong/Maiev Shadowsong HP.png",
@@ -274,6 +308,7 @@
   },
   {
     "id": 35,
+    "tier": "SA",
     "name": "Malygos",
     "image": "/heroes/Malygos/Malygos.png",
     "hpImage": "/heroes/Malygos/Malygos HP.png",
@@ -281,6 +316,7 @@
   },
   {
     "id": 36,
+    "tier": "A+",
     "name": "Master Nguyen",
     "image": "/heroes/Master Nguyen/Master Nguyen.png",
     "hpImage": "/heroes/Master Nguyen/Master Nguyen HP.png",
@@ -288,6 +324,7 @@
   },
   {
     "id": 37,
+    "tier": "A+",
     "name": "Millhouse Manastorm",
     "image": "/heroes/Millhouse Manastorm/Millhouse Manastorm.png",
     "hpImage": "/heroes/Millhouse Manastorm/Millhouse Manastorm HP.png",
@@ -299,6 +336,7 @@
   },
   {
     "id": 38,
+    "tier": "D",
     "name": "Millificent Manastorm",
     "image": "/heroes/Millificent Manastorm/Millificent Manastorm.png",
     "hpImage": "/heroes/Millificent Manastorm/Millificent Manastorm HP.png",
@@ -306,6 +344,7 @@
   },
   {
     "id": 39,
+    "tier": "BC",
     "name": "Mr Bigglesworth",
     "image": "/heroes/Mr Bigglesworth/Mr Bigglesworth.png",
     "hpImage": "/heroes/Mr Bigglesworth/Mr Bigglesworth HP.png",
@@ -313,13 +352,23 @@
   },
   {
     "id": 40,
+    "tier": "A-",
     "name": "Mutanus the Devourer",
     "image": "/heroes/Mutanus the Devourer/Mutanus the Devourer.png",
     "hpImage": "/heroes/Mutanus the Devourer/Mutanus the Devourer HP.png",
     "curves": ["yoggCurve", "yoggCurveAggro"]
   },
   {
+    "id": 401,
+    "tier": "A-",
+    "name": "Nozdormu",
+    "image": "/heroes/Nozdormu/Nozdormu.png",
+    "hpImage": "/heroes/Nozdormu/Nozdormu HP.png",
+    "curves": ["warriorCurve", "3on3LevelOn8", "3on3LevelOn9"]
+  },
+  {
     "id": 41,
+    "tier": "BC",
     "name": "N'Zoth",
     "image": "/heroes/N'Zoth/N'Zoth.png",
     "hpImage": "/heroes/N'Zoth/N'Zoth HP.png",
@@ -327,6 +376,7 @@
   },
   {
     "id": 42,
+    "tier": "C",
     "name": "Overlord Saurfang",
     "image": "/heroes/Overlord Saurfang/Overlord Saurfang.png",
     "hpImage": "/heroes/Overlord Saurfang/Overlord Saurfang HP.png",
@@ -334,6 +384,7 @@
   },
   {
     "id": 43,
+    "tier": "A-",
     "name": "Patches the Pirate",
     "image": "/heroes/Patches the Pirate/Patches the Pirate.png",
     "hpImage": "/heroes/Patches the Pirate/Patches the Pirate HP.png",
@@ -341,6 +392,7 @@
   },
   {
     "id": 44,
+    "tier": "B-",
     "name": "Patchwerk",
     "image": "/heroes/Patchwerk/Patchwerk.png",
     "hpImage": "/heroes/Patchwerk/Patchwerk HP.png",
@@ -353,6 +405,7 @@
   },
   {
     "id": 45,
+    "tier": "F",
     "name": "Pyramad",
     "image": "/heroes/Pyramad/Pyramad.png",
     "hpImage": "/heroes/Pyramad/Pyramad HP.png",
@@ -360,6 +413,7 @@
   },
   {
     "id": 46,
+    "tier": "F",
     "name": "Queen Wagtoggle",
     "image": "/heroes/Queen Wagtoggle/Queen Wagtoggle.png",
     "hpImage": "/heroes/Queen Wagtoggle/Queen Wagtoggle HP.png",
@@ -367,6 +421,7 @@
   },
   {
     "id": 47,
+    "tier": "C-",
     "name": "Ragnaros the Firelord",
     "image": "/heroes/Ragnaros the Firelord/Ragnaros the Firelord.png",
     "hpImage": "/heroes/Ragnaros the Firelord/Ragnaros the Firelord HP.png",
@@ -374,6 +429,7 @@
   },
   {
     "id": 48,
+    "tier": "C",
     "name": "Rakanishu",
     "image": "/heroes/Rakanishu/Rakanishu.png",
     "hpImage": "/heroes/Rakanishu/Rakanishu HP.png",
@@ -381,6 +437,7 @@
   },
   {
     "id": 49,
+    "tier": "S-",
     "name": "Reno Jackson",
     "image": "/heroes/Reno Jackson/Reno Jackson.png",
     "hpImage": "/heroes/Reno Jackson/Reno Jackson HP.png",
@@ -388,6 +445,7 @@
   },
   {
     "id": 50,
+    "tier": "S",
     "name": "Scabbs Cutterbutter",
     "image": "/heroes/Scabbs Cutterbutter/Scabbs Cutterbutter.png",
     "hpImage": "/heroes/Scabbs Cutterbutter/Scabbs Cutterbutter HP.png",
@@ -395,6 +453,7 @@
   },
   {
     "id": 51,
+    "tier": "S",
     "name": "Shudderwock",
     "image": "/heroes/Shudderwock/Shudderwock.png",
     "hpImage": "/heroes/Shudderwock/Shudderwock HP.png",
@@ -402,6 +461,7 @@
   },
   {
     "id": 52,
+    "tier": "AB",
     "name": "Silas Darkmoon",
     "image": "/heroes/Silas Darkmoon/Silas Darkmoon.png",
     "hpImage": "/heroes/Silas Darkmoon/Silas Darkmoon HP.png",
@@ -409,6 +469,7 @@
   },
   {
     "id": 53,
+    "tier": "CD",
     "name": "Sindragosa",
     "image": "/heroes/Sindragosa/Sindragosa.png",
     "hpImage": "/heroes/Sindragosa/Sindragosa HP.png",
@@ -416,6 +477,7 @@
   },
   {
     "id": 54,
+    "tier": "?",
     "name": "Sir Finley Mrrgglton",
     "image": "/heroes/Sir Finley Mrrgglton/Sir Finley Mrrgglton.png",
     "hpImage": "/heroes/Sir Finley Mrrgglton/Sir Finley Mrrgglton HP.png",
@@ -423,6 +485,7 @@
   },
   {
     "id": 55,
+    "tier": "BC",
     "name": "Skycap'n Kragg",
     "image": "/heroes/Skycap'n Kragg/Skycap'n Kragg.png",
     "hpImage": "/heroes/Skycap'n Kragg/Skycap'n Kragg HP.png",
@@ -430,6 +493,7 @@
   },
   {
     "id": 56,
+    "tier": "F",
     "name": "Sneed",
     "image": "/heroes/Sneed/Sneed.png",
     "hpImage": "/heroes/Sneed/Sneed HP.png",
@@ -437,6 +501,7 @@
   },
   {
     "id": 57,
+    "tier": "F",
     "name": "Tamsin Roame",
     "image": "/heroes/Tamsin Roame/Tamsin Roame.png",
     "hpImage": "/heroes/Tamsin Roame/Tamsin Roame HP.png",
@@ -444,6 +509,7 @@
   },
   {
     "id": 58,
+    "tier": "AB",
     "name": "Tess Greymane",
     "image": "/heroes/Tess Greymane/Tess Greymane.png",
     "hpImage": "/heroes/Tess Greymane/Tess Greymane HP.png",
@@ -451,6 +517,7 @@
   },
   {
     "id": 59,
+    "tier": "C-",
     "name": "The Curator",
     "image": "/heroes/The Curator/The Curator.png",
     "hpImage": "/heroes/The Curator/The Curator HP.png",
@@ -458,6 +525,7 @@
   },
   {
     "id": 60,
+    "tier": "A",
     "name": "The Great Akazamzarak",
     "image": "/heroes/The Great Akazamzarak/The Great Akazamzarak.png",
     "hpImage": "/heroes/The Great Akazamzarak/The Great Akazamzarak HP.png",
@@ -465,6 +533,7 @@
   },
   {
     "id": 61,
+    "tier": "AB",
     "name": "The Lich King",
     "image": "/heroes/The Lich King/The Lich King.png",
     "hpImage": "/heroes/The Lich King/The Lich King HP.png",
@@ -477,6 +546,7 @@
   },
   {
     "id": 62,
+    "tier": "D+",
     "name": "The Rat King",
     "image": "/heroes/The Rat King/The Rat King.png",
     "hpImage": "/heroes/The Rat King/The Rat King HP.png",
@@ -484,6 +554,7 @@
   },
   {
     "id": 63,
+    "tier": "B",
     "name": "Tickatus",
     "image": "/heroes/Tickatus/Tickatus.png",
     "hpImage": "/heroes/Tickatus/Tickatus HP.png",
@@ -491,6 +562,7 @@
   },
   {
     "id": 64,
+    "tier": "S",
     "name": "Trade Prince Gallywix",
     "image": "/heroes/Trade Prince Gallywix/Trade Prince Gallywix.png",
     "hpImage": "/heroes/Trade Prince Gallywix/Trade Prince Gallywix HP.png",
@@ -498,6 +570,7 @@
   },
   {
     "id": 65,
+    "tier": "A-",
     "name": "Vol'jin",
     "image": "/heroes/Vol'jin/Vol'jin.png",
     "hpImage": "/heroes/Vol'jin/Vol'jin HP.png",
@@ -505,6 +578,7 @@
   },
   {
     "id": 66,
+    "tier": "SA",
     "name": "Xyrella",
     "image": "/heroes/Xyrella/Xyrella.png",
     "hpImage": "/heroes/Xyrella/Xyrella HP.png",
@@ -512,6 +586,7 @@
   },
   {
     "id": 67,
+    "tier": "B+",
     "name": "Y'Shaarj",
     "image": "/heroes/Y'Shaarj/Y'Shaarj.png",
     "hpImage": "/heroes/Y'Shaarj/Y'Shaarj HP.png",
@@ -519,6 +594,7 @@
   },
   {
     "id": 68,
+    "tier": "A-",
     "name": "Yogg-Saron Hope's End",
     "image": "/heroes/Yogg-Saron Hope's End/Yogg-Saron Hope's End.png",
     "hpImage": "/heroes/Yogg-Saron Hope's End/Yogg-Saron Hope's End HP.png",
@@ -526,6 +602,7 @@
   },
   {
     "id": 69,
+    "tier": "SA",
     "name": "Ysera",
     "image": "/heroes/Ysera/Ysera.png",
     "hpImage": "/heroes/Ysera/Ysera HP.png",
@@ -538,6 +615,7 @@
   },
   {
     "id": 70,
+    "tier": "A-",
     "name": "Zephrys the Great",
     "image": "/heroes/Zephrys the Great/Zephrys the Great.png",
     "hpImage": "/heroes/Zephrys the Great/Zephrys the Great HP.png",

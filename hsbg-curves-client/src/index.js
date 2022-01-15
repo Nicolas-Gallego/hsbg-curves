@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 const theme = createTheme({
   palette: {
-    primary: { main: '##3d002d    ', light: '#6a2d56', dark: '#1f0003' },
+    primary: { main: '#3d002d', light: '#6a2d56', dark: '#1f0003' },
     secondary: { main: '#ffa400', light: '#ffd549', dark: '#c67500' },
   },
 });

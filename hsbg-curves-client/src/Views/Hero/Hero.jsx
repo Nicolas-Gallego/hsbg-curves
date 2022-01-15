@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import heroes from '../../heroes.json';
 import Navbar from '../../Components/Navbar/Navbar';
+import HeroCard from '../../Components/Card/HeroCard';
 import styles from './Hero.module.scss';
 
 const Hero = () => {
@@ -23,16 +24,9 @@ const Hero = () => {
         <Navbar />
       </header>
       <main>
-        {hero && (
-          <>
-            <h2>{hero.name}</h2>
-            <img src={hero.image} alt={hero.name} />
-            <img src={hero.hpImage} alt={hero.name} />
-            {hero.curves.map((c) => (
-              <p>{c}</p>
-            ))}
-          </>
-        )}
+        <div className={styles.heroCard}>
+          <HeroCard hero={hero} />
+        </div>
       </main>
     </>
   );
